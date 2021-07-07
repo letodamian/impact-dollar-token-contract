@@ -1,0 +1,52 @@
+{
+    "rinkeby": {
+        "verifyingContract": "0x12bd590D921D3936Db75BA60FaAE1F6A2E495b46",
+        "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
+        "deadline": 1909147011,
+        "name": "PayFoot",
+        "symbol": "PFT",
+        "version": "1",
+        "domainSeperator": "0xb2df099b6b2277296fd0e2f2b3ce214e7183d67447d4c3ad59028fa631bcad61",
+        "network_id": 4
+    },
+    "ropsten": {
+        "verifyingContract": "0xA7125fB628A2d4A60Cb650709ac046B5B2f9C12D",
+        "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
+        "deadline": 1909147011,
+        "name": "PayFoot",
+        "symbol": "PFT",
+        "version": "1",
+        "domainSeperator": "0x6557818cecaaf5cc7518970b8d57e9c023da049579b7b093949a803dc126c1c1",
+        "network_id": 3
+    },
+    "kovan": {
+        "verifyingContract": "0x667483ec1078c64f8D7e35B49152C3c2C87cCB56",
+        "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
+        "deadline": 1909147011,
+        "name": "PayFoot",
+        "symbol": "PFT",
+        "version": "1",
+        "domainSeperator": "0x95baa059e3ed09523e741cb1ceaab712dca2dbb0e636349d09fb9e3382312d39",
+        "network_id": 42
+    },
+    "goerli": {
+        "verifyingContract": "0x31e6Bf2c4E2Aa5AFC0e85b5feEF73C9137B24c5E",
+        "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
+        "deadline": 1909147011,
+        "name": "PayFoot",
+        "symbol": "PFT",
+        "version": "1",
+        "domainSeperator": "0x1476c0a78f806d83a39c98b92d8fadaf62b663372f58c6bb3c3b4c9b6c323b50",
+        "network_id": 5
+    },
+    "payfoot": {
+        "verifyingContract": "0x1C90008B345fA5BEf50d6AB617A1BB91cf51c41d",
+        "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
+        "deadline": 1909147011,
+        "name": "PayFoot",
+        "symbol": "PFT",
+        "version": "1",
+        "domainSeperator": "0x1ddb067447db90ac8d6c2bfec22aa04c0ebfb75e1b4b2fedcbf286ea302c544b",
+        "network_id": 888
+    }
+}
