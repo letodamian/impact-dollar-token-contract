@@ -6,7 +6,7 @@ let Web3 = require('web3'); // Add the web3 node package
 let ethUtil = require('ethereumjs-util'); // 'ethereumjs-util' is a collection of utility functions for Ethereum
 let sigUtil  = require('eth-sig-util'); // 'eth-sig-util' is a small collection of Ethereum signing functions
 const config = require('./data-config.json'); // Include the network-specific configurations
-const contractAbi = require('./ABI/PayFoot.json'); // Import the contract ABI of the smart contract
+const contractAbi = require('./ABI/ImpactDollar.json'); // Import the contract ABI of the smart contract
 const BigNumber = require('bignumber.js'); // Add the bignumber.js node package
 const { EIP712Domain } = require('./helper.js'); // Add some helpers
 
