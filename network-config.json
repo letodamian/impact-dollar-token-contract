@@ -32,5 +32,9 @@
     "payfoot": {
         "url": "https://rpc.payfoot.org",
         "network_id": 888
+    },
+    "porini": {
+        "url": "https://rpc.sustainabilitychain.ch",
+        "network_id": 421
     }
 }

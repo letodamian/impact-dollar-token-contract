@@ -108,10 +108,10 @@ Go to the corresponding Etherscan link, e.g. https://rinkeby.etherscan.io/addres
 
 ## Test Deployments
 The smart contract [`PayFoot.sol`](https://gitlab.appswithlove.net/payfoot/payfoot-token-contract/-/blob/main/contracts/PayFoot.sol) has been deployed across all the major test networks:
-- **Rinkeby:** [0x12bd590D921D3936Db75BA60FaAE1F6A2E495b46](https://rinkeby.etherscan.io/address/0x12bd590d921d3936db75ba60faae1f6a2e495b46)
-- **Ropsten:** [0xA7125fB628A2d4A60Cb650709ac046B5B2f9C12D](https://ropsten.etherscan.io/address/0xA7125fB628A2d4A60Cb650709ac046B5B2f9C12D)
-- **Kovan:** [0x667483ec1078c64f8D7e35B49152C3c2C87cCB56](https://kovan.etherscan.io/address/0x667483ec1078c64f8D7e35B49152C3c2C87cCB56)
-- **Goerli:** [0x31e6Bf2c4E2Aa5AFC0e85b5feEF73C9137B24c5E](https://goerli.etherscan.io/address/0x31e6Bf2c4E2Aa5AFC0e85b5feEF73C9137B24c5E)
+- **Rinkeby:** [0xBeA3fCC51e031a9A8c77C0D8CB9873FeBb783045](https://rinkeby.etherscan.io/address/0xbea3fcc51e031a9a8c77c0d8cb9873febb783045)
+- **Ropsten:** [TBD](TBD)
+- **Kovan:** [TBD](TBD)
+- **Goerli:** [TBD](TBD)
 
 ## Production Deployments on PayFoot
 The smart contract [`PayFoot.sol`](https://gitlab.appswithlove.net/payfoot/payfoot-token-contract/-/blob/main/contracts/PayFoot.sol) has been deployed to the PayFoot network with [Remix<sup>*</sup> ](http://remix.ethereum.org) and signed with the PayFoot hardware wallet (Ledger Nano S):

@@ -1,7 +1,7 @@
 {
-  "name": "payfoot-token-contract",
+  "name": "impact-dollar-token-contract",
   "version": "1.0.0",
-  "description": "This is PayFoot's ERC-20 smart contract, whose tokens are used as stablecoins in their ecosystem.",
+  "description": "This is Impact Dollar's ERC-20 smart contract, whose tokens can deliver a demonstrable contribution to conservation and protected areas through digital collectibles.",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -11,14 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.appswithlove.net/payfoot/payfoot-token-contract.git"
+    "url": "git+https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract.git"
   },
   "bugs": {
-    "url": "https://gitlab.appswithlove.net/payfoot/payfoot-token-contract/-/issues"
+    "url": "https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/issues"
   },
   "keywords": [
     "smartcontract",
-    "payfoot",
+    "impact",
+    "dollar",
     "solidity",
     "ethereum",
     "erc20",

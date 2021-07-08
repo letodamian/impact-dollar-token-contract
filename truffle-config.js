@@ -39,6 +39,10 @@ module.exports = {
       provider: () => new HDWalletProvider({mnemonic: {phrase: seedPhrase}, providerOrUrl: `${config.payfoot.url}`}),
       network_id: config.payfoot.network_id,
     },
+    porini: {
+      provider: () => new HDWalletProvider({mnemonic: {phrase: seedPhrase}, providerOrUrl: `${config.porini.url}`}),
+      network_id: config.porini.network_id,
+    },
   },
 
   // Configure our compilers
