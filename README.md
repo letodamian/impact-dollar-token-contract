@@ -117,9 +117,9 @@ The smart contract [`ImpactDollar.sol`](https://gitlab.appswithlove.net/green_li
 
 ## Production Deployments on SustainabilityChain
 The smart contract [`ImpactDollar.sol`](https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/blob/main/contracts/ImpactDollar.sol) has been deployed to the SustainabilityChain network with [Remix<sup>*</sup> ](http://remix.ethereum.org) and signed with the ImpactDollar hardware wallet (Ledger Nano S):
-- Contract creation transaction hash: TBD
-- **Contract address:** TBD
-- **Contract admin:** TBD
+- Contract creation transaction hash: [0xf6aaa03f3f3433db11f4b862ed7e424b1c24e0c59f1b9fe84cadf062bafdcde6](https://expedition.dev/tx/0xf6aaa03f3f3433db11f4b862ed7e424b1c24e0c59f1b9fe84cadf062bafdcde6?network=Porini)
+- **Contract address:** [0xfEC6Ae9cA6656e534E8d2B8813718401C7823079](https://expedition.dev/address/0xfEC6Ae9cA6656e534E8d2B8813718401C7823079?network=Porini)
+- **Contract admin:** [0xD4095bA16e4a10eA5E2d6901705713BfD61C3E2d](https://expedition.dev/address/0xD4095bA16e4a10eA5E2d6901705713BfD61C3E2d?network=Porini)
 - Contract Application Binary Interface (ABI): Can be downloaded from the [snippet](https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/snippets/18). This file was copied from Remix after compilation.
 > **Note 1:** Make sure that you always copy the full smart contract ABI and not just one of the inherited interfaces!
 

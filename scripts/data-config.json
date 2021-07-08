@@ -40,13 +40,13 @@
         "network_id": 5
     },
     "porini": {
-        "verifyingContract": "TBD",
+        "verifyingContract": "0xfEC6Ae9cA6656e534E8d2B8813718401C7823079",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
         "name": "Impact Dollar",
         "symbol": "IMD",
         "version": "1",
-        "domainSeperator": "TBD",
+        "domainSeperator": "0xe129a7f55e43ab9255d0957a3d52c50451a5104716b1d802238d5b66a220bdc1",
         "network_id": 421
     }
 }
