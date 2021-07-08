@@ -10,33 +10,33 @@
         "network_id": 4
     },
     "ropsten": {
-        "verifyingContract": "TBD",
+        "verifyingContract": "0xbB5C47840930Af779042b6209c064B8Ac9247848",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
         "name": "Impact Dollar",
         "symbol": "IMD",
         "version": "1",
-        "domainSeperator": "IMD",
+        "domainSeperator": "0xc43bb11928ed5ad3f3636342da48764a1129c92d51f0758ab356ff066c8bce3d",
         "network_id": 3
     },
     "kovan": {
-        "verifyingContract": "TBD",
+        "verifyingContract": "0x20EC414D11C2C1C9c332083284C1f99C1365A645",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
         "name": "Impact Dollar",
         "symbol": "IMD",
         "version": "1",
-        "domainSeperator": "IMD",
+        "domainSeperator": "0x18f1599b74e4d12afcbb6e49cf940edd6e1db51cdea63eaa8e9d262eb0046f94",
         "network_id": 42
     },
     "goerli": {
-        "verifyingContract": "TBD",
+        "verifyingContract": "0x64e9465B3B965e10f8C093729c9280aF9f1D9648",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
         "name": "Impact Dollar",
         "symbol": "IMD",
         "version": "1",
-        "domainSeperator": "IMD",
+        "domainSeperator": "0x809bd0d1e035b9f7a06889882eaaaf9d73fdcacae9e1491e89367d88e52c6954",
         "network_id": 5
     },
     "porini": {
@@ -46,7 +46,7 @@
         "name": "Impact Dollar",
         "symbol": "IMD",
         "version": "1",
-        "domainSeperator": "IMD",
-        "network_id": 888
+        "domainSeperator": "TBD",
+        "network_id": 421
     }
 }

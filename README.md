@@ -1,7 +1,8 @@
 # Impact Dollar's ERC-20 Smart Contract
 This is Impact Dollar's [ERC-20](https://docs.openzeppelin.com/contracts/4.x/api/token/erc20) smart contract, whose tokens can deliver a demonstrable contribution to conservation and protected areas through digital collectibles.
-> **Note 1:** Upon customer's request, the token smart contract does not include [pausable](https://docs.openzeppelin.com/contracts/3.x/api/token/erc20#ERC20Pausable) token transfers, minting, and burning. Furthermore, the token has 2 decimal digits and has no initial token supply.
-> **Note 2:** It is important to understand that `decimals` is only used for display purposes. All arithmetic inside the contract is still performed on integers, and it is the different user interfaces (wallets, exchanges, etc.) that must adjust the displayed values according to `decimals`.
+> **Note 1:** Upon customer's request, the token smart contract does not include [pausable](https://docs.openzeppelin.com/contracts/3.x/api/token/erc20#ERC20Pausable) token transfers, minting, and burning. Furthermore, the token has 2 decimal digits and has no initial supply.
+
+> **Note 2:** It is important to understand that [`decimals`](https://docs.openzeppelin.com/contracts/4.x/api/token/erc20#ERC20-decimals--) is *only used for display purposes*. All arithmetic inside the contract is still performed on integers, and it is the different user interfaces (wallets, exchanges, etc.) that must adjust the displayed values according to [`decimals`](https://docs.openzeppelin.com/contracts/4.x/api/token/erc20#ERC20-decimals--).
 
 ## Changelog
 See the created [`CHANGELOG`](https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/blob/main/CHANGELOG.md) file in this repository.
@@ -108,14 +109,14 @@ i.symbol()
 Go to the corresponding Etherscan link, e.g. https://rinkeby.etherscan.io/address/CONTRACTADDRESS#code. You are able to invoke READ and WRITE functions on the contract.
 
 ## Test Deployments
-The smart contract [`ImpactDollar.sol`](https://gitlab.appswithlove.net/payfoot/payfoot-token-contract/-/blob/main/contracts/PayFoot.sol) has been deployed across all the major test networks:
+The smart contract [`ImpactDollar.sol`](https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/blob/main/contracts/ImpactDollar.sol) has been deployed across all the major test networks:
 - **Rinkeby:** [0xBeA3fCC51e031a9A8c77C0D8CB9873FeBb783045](https://rinkeby.etherscan.io/address/0xbea3fcc51e031a9a8c77c0d8cb9873febb783045)
-- **Ropsten:** [TBD](TBD)
-- **Kovan:** [TBD](TBD)
-- **Goerli:** [TBD](TBD)
+- **Ropsten:** [0xbB5C47840930Af779042b6209c064B8Ac9247848](https://ropsten.etherscan.io/address/0xbB5C47840930Af779042b6209c064B8Ac9247848)
+- **Kovan:** [0x20EC414D11C2C1C9c332083284C1f99C1365A645](https://kovan.etherscan.io/address/0x20ec414d11c2c1c9c332083284c1f99c1365a645)
+- **Goerli:** [0x64e9465B3B965e10f8C093729c9280aF9f1D9648](https://goerli.etherscan.io/address/0x64e9465B3B965e10f8C093729c9280aF9f1D9648)
 
-## Production Deployments on ImpactDollar
-The smart contract [`ImpactDollar.sol`](https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/blob/main/contracts/ImpactDollar.sol) has been deployed to the ImpactDollar network with [Remix<sup>*</sup> ](http://remix.ethereum.org) and signed with the ImpactDollar hardware wallet (Ledger Nano S):
+## Production Deployments on SustainabilityChain
+The smart contract [`ImpactDollar.sol`](https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/blob/main/contracts/ImpactDollar.sol) has been deployed to the SustainabilityChain network with [Remix<sup>*</sup> ](http://remix.ethereum.org) and signed with the ImpactDollar hardware wallet (Ledger Nano S):
 - Contract creation transaction hash: TBD
 - **Contract address:** TBD
 - **Contract admin:** TBD
