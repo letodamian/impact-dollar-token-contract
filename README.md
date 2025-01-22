@@ -135,6 +135,7 @@ The smart contract [`ImpactDollar.sol`](https://gitlab.appswithlove.net/green_li
 ## Further References
 [1] https://docs.openzeppelin.com/contracts/4.x/erc20
 
+
 [2] https://github.com/rkalis/truffle-plugin-verify
 
 [3] https://www.trufflesuite.com/ganache
